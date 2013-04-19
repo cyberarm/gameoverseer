@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (1.0.3)
+    eventmachine (1.0.3-x86-mingw32)
+    log4r (1.1.10)
+    msgpack (0.5.4-x86-mingw32)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  eventmachine
+  log4r
+  msgpack
