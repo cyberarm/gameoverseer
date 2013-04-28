@@ -3,4 +3,20 @@ source "http://rubygems.org" # Windows
 
 gem "eventmachine"
 gem "log4r"
-gem "msgpack"
+gem "oj"
+# gem "msgpack"
+gem "os"
+gem "rainbow"
+
+group :gui do
+  gem "green_shoes"
+end
+
+group :test do
+  gem "rspec"
+  gem "simplecov"
+end
+
+group :documentation do
+  gem "yard"
+end

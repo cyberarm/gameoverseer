@@ -1,0 +1,690 @@
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"e9b3da6307328185cb1f3ab8973071f6"} from 
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"fb0c6c0a67b8d9e1eccb4b0c67a8ac42"} from 
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"462ec7b2ed329cc620d6931025c249d0"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>1, :key=>"f012bba2a6b7b50e4c9c9d0c68337e92"} from 
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:connect, :data=>{:username=>"player", :password=>"secret123"}} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"Hello World", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Received {:channel=>:chat, :message=>"!ban cyberarm", :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Received {:channel=>:identity, :mode=>:disconnect, :id=>0, :key=>"f63d3a73555035715ae4a7c011575f95"} from 
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ERROR GameOverseer: Invalid data received: undefined method `data_to_symbols' for #<GameOverseer::Server:0x000000016dce18>
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"ffacc48cc59200035054c470ce9fc863"} from 1
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"a57bb6d670007a4eea70e00ad9c8fdb6"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>1, "key"=>"f67b1b6f1748f1a3735b9acc4bb76c73"} from 1
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"ce750a250cf352f3b91a37dc7dee28b7"} from 0
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>0} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"d97a3f10590d1d5501d39d599d469cf0"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"d97a3f10590d1d5501d39d599d469cf0"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"d97a3f10590d1d5501d39d599d469cf0"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"d97a3f10590d1d5501d39d599d469cf0"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"c87b1d017d0ebf9f2a04e1b9f4d3af6d"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"c87b1d017d0ebf9f2a04e1b9f4d3af6d"} from 1
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"7adfdd2094666b8b70213c6fa020389e"} from 0
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"1bb8988bd9da3a09e7a838589d69506a"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Found client: 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>1, "key"=>"6d40cd548f02786d593f14c3cef6a32e"} from 1
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"6bd1583ace31445c7b7f68a6ea0451c7"} from 0
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"connect", "username"=>"player", "password"=>"secret123"} from 
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Found client: 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"Hello World", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Received {"channel"=>"chat", "message"=>"!ban cyberarm", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Received {"channel"=>"identity", "mode"=>"disconnect", "id"=>0, "key"=>"9546b3e863a8900ef1cb5ee67f5f0634"} from 0
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.
+ INFO GameOverseer: Service Sentinel activated.

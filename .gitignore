@@ -1,1 +1,6 @@
+.redcar
 ._redcar
+.yardoc
+logs/*
+coverage
+doc
