@@ -4,7 +4,7 @@ class GameOverseer
       super
       @service_manager = GameOverseer::ServiceManager.new
       @client_manager  = GameOverseer::ClientManager.new
-      @event_manager   = GameOverseer::EventManager.new
+      @event_manager   = GameOverseer::EventManager.new(@service_manager)
       @chat_manager    = GameOverseer::ChatManager.new(@service_manager)
       insert_spacer
         text_introduction

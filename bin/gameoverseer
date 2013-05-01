@@ -1,0 +1,9 @@
+#! usr/bash ruby
+
+require "gameoverseer"
+require "optparse"
+
+OptionParser.new do |o|
+  o.on("-v", "--version", "Puts version") { puts "#{GameOverseer::VERSION} (#{GameOverseer::VERSION_NAME})"; exit }
+  o.parse!
+end
