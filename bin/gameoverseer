@@ -1,9 +1,22 @@
-#! usr/bash ruby
+#!/usr/bin/env ruby
 
 require "gameoverseer"
+require "gameoverseer/generator/generator"
 require "optparse"
 
 OptionParser.new do |o|
-  o.on("-v", "--version", "Puts version") { puts "#{GameOverseer::VERSION} (#{GameOverseer::VERSION_NAME})"; exit }
+  o.program_name = "GameOverseer"
+  o.version = GameOverseer::VERSION
+  o.banner = "Usage: gameoverseer [options]"
+
+  o.on("-n NAME", "--new NAME", "Create template for service") do |name|
+    GameOverseer::Generator.new(:project, name)
+  end
+
+  o.on("-g NAME", "--generate NAME", "Create template for service") do |name|
+    GameOverseer::Generator.new(:service, name)
+  end
+
+  o.on("-v", "--version", "Puts version") { puts "GameOverseer #{GameOverseer::VERSION} (#{GameOverseer::VERSION_NAME})"; exit }
   o.parse!
 end

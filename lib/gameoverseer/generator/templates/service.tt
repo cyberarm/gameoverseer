@@ -1,0 +1,17 @@
+class <%= config[:service_class] %> < GameOverseer::Service
+  def events
+    [:on_join]
+  end
+
+  def commands
+    [:ban]
+  end
+
+  def on_join(username)
+    puts "#{username} has joined."
+  end
+
+  def ban(data)
+    p data
+  end
+end

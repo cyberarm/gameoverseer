@@ -5,3 +5,4 @@ logs/*.txt
 coverage
 doc
 gui
+pkg
