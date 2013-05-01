@@ -4,7 +4,6 @@ source "http://rubygems.org" # Windows
 gem "eventmachine"
 gem "log4r"
 gem "oj"
-# gem "msgpack"
 gem "os"
 gem "rainbow"
 

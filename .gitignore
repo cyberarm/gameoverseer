@@ -1,6 +1,6 @@
 .redcar
 ._redcar
 .yardoc
-logs/*
+logs/*.txt
 coverage
 doc

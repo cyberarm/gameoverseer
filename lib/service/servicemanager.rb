@@ -23,5 +23,15 @@ class GameOverseer
       end
       return found_cmd
     end
+
+    def process_event(called_event, data)
+      SERVICES.each do |service|
+        service.events.each do |event|
+          if called_event == event
+            service.send(called_event, data)
+          end
+        end
+      end
+    end
   end
 end

@@ -26,6 +26,7 @@ class GameOverseerClient < EventMachine::Connection
       if @handshake
         send_datagram(Oj.dump({'channel' => 'chat', 'message' => "Hello World", 'id' => @id, 'key' => @key}), @host, @port)
         send_datagram(Oj.dump({'channel' => 'chat', 'message' => "!ban cyberarm", 'id' => @id, 'key' => @key}), @host, @port)
+        send_datagram(Oj.dump({'channel' => 'chat', 'message' => "!i_do_not_exist", 'id' => @id, 'key' => @key}), @host, @port)
       end
 
       if @sent_msg > 10
