@@ -1,8 +1,8 @@
 .redcar
 ._redcar
 .yardoc
-logs/*.txt
+logs/log.txt
 coverage
 doc
-gui
+lib/gameoverseer/gui
 pkg

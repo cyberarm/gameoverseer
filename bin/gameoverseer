@@ -9,12 +9,24 @@ OptionParser.new do |o|
   o.version = GameOverseer::VERSION
   o.banner = "Usage: gameoverseer [options]"
 
-  o.on("-n NAME", "--new NAME", "Create template for service") do |name|
+  o.on("-n NAME", "--new NAME", "Create a new project") do |name|
     GameOverseer::Generator.new(:project, name)
   end
 
   o.on("-g NAME", "--generate NAME", "Create template for service") do |name|
     GameOverseer::Generator.new(:service, name)
+  end
+
+  o.on("-d", "--debug", "Start server in debug mode") do |name|
+    puts "--- ".foreground(:yellow) + "Running in Debug Mode".foreground(:red) + " ---".foreground(:yellow)
+    puts "Overview: Ruby: #{RUBY_VERSION}, RubyGems: #{Gem::VERSION}".foreground(:red)
+    puts "Loaded gems:".foreground(:red)
+    Gem.loaded_specs.values.map {|x| puts "#{x.name} #{x.version}".foreground(:red)}
+    $debug = true
+
+    server_file = Dir.glob("*.rb")
+    p server_file
+    require "./#{server_file.first}" if server_file.length == 1
   end
 
   o.on("-v", "--version", "Puts version") { puts "GameOverseer #{GameOverseer::VERSION} (#{GameOverseer::VERSION_NAME})"; exit }

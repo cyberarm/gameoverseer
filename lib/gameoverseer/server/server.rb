@@ -3,6 +3,7 @@ class GameOverseer
     def initialize
       super
       @service_manager = GameOverseer::ServiceManager.new
+      @channel_manager = GameOverseer::ChannelManager.new
       @client_manager  = GameOverseer::ClientManager.new
       @event_manager   = GameOverseer::EventManager.new(@service_manager)
       @chat_manager    = GameOverseer::ChatManager.new(@service_manager)
@@ -16,7 +17,7 @@ class GameOverseer
       end
       insert_spacer
 
-      unless $debug
+      unless $debug or $testing
         Thread.new do
           loop do
             start_input_monitor
@@ -59,11 +60,11 @@ class GameOverseer
 
     def receive_data data
       begin
-          data = Oj.strict_load(data)
-        rescue => e
-          $log.error "Invalid data received: #{e.to_s}"
-          data = nil
-        end
+        data = Oj.strict_load(data)
+      rescue ParseError
+        $log.error "Invalid data received: #{data.to_s}"
+        data = nil
+      end
     
       if data.kind_of? Hash
         if data['channel'] == 'identity'
@@ -78,20 +79,15 @@ class GameOverseer
           elsif data['mode'] == 'disconnect'
             @client_manager.remove(data)
           end
-    
-        # Define channels here
-      elsif data['channel'] == 'server'
-          # @chat_manager.add_server_message(data)
-    
-        elsif data['channel'] == 'chat'
-          @chat_manager.add_message(data) if @client_manager.known_client?(data)
-    
-        elsif data['channel'] == 'world'
-          # TODO: Pass off to world manager service
         end
+    
+        if data['channel'] == 'chat'
+          @chat_manager.add_message(data) if @client_manager.known_client?(data)
+        end
+
+        @channel_manager.push(data['channel'], data) if @client_manager.known_client?(data)
+        $log.info "Received #{data} from #{data['id']} for channel #{data['channel']}"
       end
-      $log.info "Received #{data} from #{data['id']}"
-      # $log.debug "#{GC::Profiler.report}"
     end
 
     def unbind

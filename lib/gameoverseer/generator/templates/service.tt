@@ -1,4 +1,4 @@
-class <%= config[:service_class] %> < GameOverseer::Service
+class <%= $generator_config[:class_name] %> < GameOverseer::Service
   def events
     [:on_join]
   end

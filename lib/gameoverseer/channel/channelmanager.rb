@@ -1,20 +1,21 @@
 class GameOverseer
+
+  # The ChannelManager routes messages sent to the server to services.
   class ChannelManager
     CHANNELS = []
-    def initialize
-    end
 
     def self.subscribe(channel, klasss)
-      p caller
-      puts "Got caller?"
-      CHANNELS << {channel: channel, klass: klass}
+      CHANNELS << {channel: channel.to_s, klass: klass}
     end
 
     def push(requested_channel, data)
-      puts "H!"
       CHANNELS.each do |channel|
         if requested_channel == channel
-          channel[:klass].send(:update, data)
+          GameOverseer::ServiceManager::SERVICES.each do |service|
+            if service.name == channel[:klass].name
+              service.send(:update, data)
+            end
+          end
         end
       end
     end

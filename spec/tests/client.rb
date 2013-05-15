@@ -1,7 +1,7 @@
 require_relative "../test_helper"
 
 describe GameOverseer::Client do
-  before do
+  before :each do
     @key    = GameOverseer::ClientHandshake.new
     @client = GameOverseer::Client.new("127.0.0.1", 67891, 1, @key.key, {'username' => 'Player'})
   end

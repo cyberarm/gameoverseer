@@ -2,6 +2,7 @@ class Sentinel < GameOverseer::Service
   #Service Setup
   def initialize
     @players = 0
+    GameOverseer::ChannelManager.subscribe('chat', self)
   end
 
   #Setup
@@ -11,6 +12,10 @@ class Sentinel < GameOverseer::Service
 
   def commands
     [:kick, :ban, :server, :services]
+  end
+
+  def update(data)
+    p data
   end
 
   #Events
@@ -43,7 +48,7 @@ class Sentinel < GameOverseer::Service
     #Todo: Ensure command giver has authority to run this command
     data = data['message'].split(/ /)
     if data[1].nil?
-      puts "!server [exit|shutdown|stop|restart|status|players]" if data['console']  == true
+      puts "!server [exit|shutdown|stop|restart|status|players]" if data['console'] == true
       # "!server [exit|shutdown|stop|restart|status|players]" unless data['console'] # Add to PM queue
     end
 

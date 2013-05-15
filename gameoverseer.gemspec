@@ -5,7 +5,7 @@ require "gameoverseer/version"
 Gem::Specification.new do |s|
   s.name = "gameoverseer"
   s.version = GameOverseer::VERSION
-  s.authors = ["Cyber"]
+  s.authors = ["Cyberarm"]
   s.email = ["matthewlikesrobots@gmail.com"]
   s.homepage = "https://github.com/cyberarm/jared"
   s.summary = "Generic game server."

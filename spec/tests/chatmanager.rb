@@ -1,7 +1,7 @@
 require_relative "../test_helper"
 
 describe GameOverseer::ChatManager do
-  before do
+  before :each do
     @servicemanager = GameOverseer::ServiceManager.new
     @chatmanager = GameOverseer::ChatManager.new(@servicemanager)
   end

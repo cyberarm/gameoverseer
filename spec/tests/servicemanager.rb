@@ -1,7 +1,7 @@
 require_relative "../test_helper"
 
 describe GameOverseer::ServiceManager do
-  before do
+  before :each do
     @servicemanager = GameOverseer::ServiceManager.new
   end
 
@@ -11,8 +11,8 @@ describe GameOverseer::ServiceManager do
     end
 
     it "should not fail when sending valid commands" do
-      pending
-      @servicemanager.process_command({'message' => "!server"}).should be_instance_of(String)
+      # pending
+      @servicemanager.process_command({'message' => "!server"}).should be_a(Integer)
       @servicemanager.process_command({'message' => "!server exit"}).should == true
     end
 
@@ -26,7 +26,7 @@ describe GameOverseer::ServiceManager do
       @servicemanager.respond_to?(:process_event)
     end
 
-    it "should found and send event to service" do
+    it "should find and send event to service" do
       pending
       @servicemanager.process_event(:on_join, "Player").should == true
     end
