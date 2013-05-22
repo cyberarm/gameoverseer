@@ -17,7 +17,7 @@ require_relative "gameoverseer/event/eventmanager"
 
 require_relative "gameoverseer/channel/channelmanager"
 
-require_relative "gameoverseer/chat/chatmanager"
+require_relative "gameoverseer/message/messagemanager"
 
 require_relative "gameoverseer/client/client"
 require_relative "gameoverseer/client/clientmanager"

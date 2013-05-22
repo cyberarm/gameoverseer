@@ -4,7 +4,7 @@ class GameOverseer
   class ChannelManager
     CHANNELS = []
 
-    def self.subscribe(channel, klasss)
+    def self.subscribe(channel, klass)
       CHANNELS << {channel: channel.to_s, klass: klass}
     end
 

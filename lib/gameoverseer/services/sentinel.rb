@@ -1,6 +1,12 @@
 class Sentinel < GameOverseer::Service
   #Service Setup
+  # def new(*args)
+  #   binding.pry
+  #   super
+  # end
+
   def initialize
+    binding.pry
     @players = 0
     GameOverseer::ChannelManager.subscribe('chat', self)
   end
@@ -15,7 +21,7 @@ class Sentinel < GameOverseer::Service
   end
 
   def update(data)
-    p data
+    p "DATA: #{data}"
   end
 
   #Events
@@ -48,8 +54,7 @@ class Sentinel < GameOverseer::Service
     #Todo: Ensure command giver has authority to run this command
     data = data['message'].split(/ /)
     if data[1].nil?
-      puts "!server [exit|shutdown|stop|restart|status|players]" if data['console'] == true
-      # "!server [exit|shutdown|stop|restart|status|players]" unless data['console'] # Add to PM queue
+      "!server [exit|shutdown|stop|restart|status|players]" if data['console'] == true
     end
 
     case data[1]
@@ -58,6 +63,7 @@ class Sentinel < GameOverseer::Service
 
     when /exit|shutdown|stop/
       exit unless $testing
+      true if $testing
     end
   end
 

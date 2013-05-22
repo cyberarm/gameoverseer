@@ -9,6 +9,7 @@ GEM
       pkg-config
     cairo (1.12.4-x86-mingw32)
       pkg-config
+    coderay (1.0.9)
     diff-lcs (1.2.4)
     eventmachine (1.0.3)
     eventmachine (1.0.3-x86-mingw32)
@@ -30,7 +31,9 @@ GEM
       atk (>= 1.2.6)
       gdk_pixbuf2 (>= 1.2.6)
       pango (>= 1.2.6)
+    interception (0.3)
     log4r (1.1.10)
+    method_source (0.8.1)
     multi_json (1.7.2)
     oj (2.0.10)
     os (0.9.6)
@@ -41,6 +44,18 @@ GEM
       cairo (>= 1.10.0)
       glib2 (>= 1.2.6)
     pkg-config (1.1.4)
+    pry (0.9.12)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+    pry (0.9.12-x86-mingw32)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+      win32console (~> 1.3)
+    pry-rescue (1.1.1)
+      interception (>= 0.3)
+      pry
     rainbow (1.1.4)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
@@ -54,6 +69,8 @@ GEM
       multi_json (~> 1.0)
       simplecov-html (~> 0.7.1)
     simplecov-html (0.7.1)
+    slop (3.4.4)
+    win32console (1.3.2-x86-mingw32)
     yard (0.8.6.1)
 
 PLATFORMS
@@ -66,6 +83,8 @@ DEPENDENCIES
   log4r
   oj
   os
+  pry
+  pry-rescue
   rainbow
   rspec
   simplecov

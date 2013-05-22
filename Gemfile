@@ -6,6 +6,8 @@ gem "log4r"
 gem "oj"
 gem "os"
 gem "rainbow"
+gem "pry"
+gem "pry-rescue"
 
 group :gui do
   gem "green_shoes"

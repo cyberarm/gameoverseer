@@ -11,8 +11,7 @@ describe GameOverseer::ServiceManager do
     end
 
     it "should not fail when sending valid commands" do
-      # pending
-      @servicemanager.process_command({'message' => "!server"}).should be_a(Integer)
+      @servicemanager.process_command({'message' => "!server"}).should be_nil or be_a(String)
       @servicemanager.process_command({'message' => "!server exit"}).should == true
     end
 

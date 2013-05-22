@@ -1,5 +1,5 @@
 class GameOverseer
-  class ChatManager
+  class MessageManager
     MESSAGES = [] # Chat message for players
     SERVER_MESSAGES = [] # Chat messages from server
 

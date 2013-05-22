@@ -6,7 +6,7 @@ class GameOverseer
       @channel_manager = GameOverseer::ChannelManager.new
       @client_manager  = GameOverseer::ClientManager.new
       @event_manager   = GameOverseer::EventManager.new(@service_manager)
-      @chat_manager    = GameOverseer::ChatManager.new(@service_manager)
+      @message_manager = GameOverseer::MessageManager.new(@service_manager)
       insert_spacer
         text_introduction
         text_status
@@ -52,9 +52,9 @@ class GameOverseer
       print "> "
       input = gets.chomp
       if input[0,1] == '!'
-        @chat_manager.add_message('message' => input, 'console' => true)
+        @message_manager.add_message('message' => input, 'console' => true)
       else
-        @chat_manager.add_server_message("Server[Console]: #{input}")
+        @message_manager.add_server_message("Server[Console]: #{input}")
       end
     end
 
@@ -82,7 +82,7 @@ class GameOverseer
         end
     
         if data['channel'] == 'chat'
-          @chat_manager.add_message(data) if @client_manager.known_client?(data)
+          @message_manager.add_message(data) if @client_manager.known_client?(data)
         end
 
         @channel_manager.push(data['channel'], data) if @client_manager.known_client?(data)
