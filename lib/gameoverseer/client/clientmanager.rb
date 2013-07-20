@@ -1,4 +1,6 @@
 class GameOverseer
+
+  # Manages all clients, holds all data about clients
   class ClientManager
     CLIENTS = []
 
@@ -7,6 +9,7 @@ class GameOverseer
       @current_id  = 0
     end
 
+    # Add client
     def add(ip, port, key, data={})
       if CLIENTS.count > GameOverseer::CONFIG[:max_players]
         false
@@ -21,6 +24,7 @@ class GameOverseer
       end
     end
 
+    # Remove disconnecting client
     def remove(data)
       CLIENTS.each do |client|
         if client.key == data['key']
@@ -35,6 +39,7 @@ class GameOverseer
       end
     end
 
+    # Retrieve client data
     def get(id, key)
       CLIENTS.each do |client|
         if client.id == id
@@ -46,6 +51,7 @@ class GameOverseer
       end
     end
 
+    # checks to see if client is a valid client
     def known_client?(data)
       client = get(data['id'], data['key'])
       if client.kind_of? Array

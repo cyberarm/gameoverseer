@@ -1,49 +1,16 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    atk (1.2.6)
-      glib2 (>= 1.2.6)
-    atk (1.2.6-x86-mingw32)
-      glib2 (>= 1.2.6)
-    cairo (1.12.4)
-      pkg-config
-    cairo (1.12.4-x86-mingw32)
-      pkg-config
     coderay (1.0.9)
     diff-lcs (1.2.4)
     eventmachine (1.0.3)
     eventmachine (1.0.3-x86-mingw32)
-    gdk_pixbuf2 (1.2.6)
-      glib2 (>= 1.2.6)
-    gdk_pixbuf2 (1.2.6-x86-mingw32)
-      glib2 (>= 1.2.6)
-    glib2 (1.2.6)
-      pkg-config
-    glib2 (1.2.6-x86-mingw32)
-      pkg-config
-    green_shoes (1.1.373)
-      gtk2
-    gtk2 (1.2.6)
-      atk (>= 1.2.6)
-      gdk_pixbuf2 (>= 1.2.6)
-      pango (>= 1.2.6)
-    gtk2 (1.2.6-x86-mingw32)
-      atk (>= 1.2.6)
-      gdk_pixbuf2 (>= 1.2.6)
-      pango (>= 1.2.6)
     interception (0.3)
     log4r (1.1.10)
     method_source (0.8.1)
     multi_json (1.7.2)
     oj (2.0.10)
     os (0.9.6)
-    pango (1.2.6)
-      cairo (>= 1.10.0)
-      glib2 (>= 1.2.6)
-    pango (1.2.6-x86-mingw32)
-      cairo (>= 1.10.0)
-      glib2 (>= 1.2.6)
-    pkg-config (1.1.4)
     pry (0.9.12)
       coderay (~> 1.0.5)
       method_source (~> 0.8)
@@ -79,7 +46,6 @@ PLATFORMS
 
 DEPENDENCIES
   eventmachine
-  green_shoes
   log4r
   oj
   os

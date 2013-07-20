@@ -1,7 +1,12 @@
 class GameOverseer
+
+  # The CPU of GameOverseer as it were.
   class Server < EventMachine::Connection
+
+    # Setup for the server
     def initialize
       super
+      # Create instances of the various managers
       @service_manager = GameOverseer::ServiceManager.new
       @channel_manager = GameOverseer::ChannelManager.new
       @client_manager  = GameOverseer::ClientManager.new
@@ -12,6 +17,7 @@ class GameOverseer
         text_status
       insert_spacer
       puts "Found services:"
+      GameOverseer::ServiceManager::SERVICES.each {|s|GameOverseer::ServiceManager::SERVICES.delete(s);GameOverseer::ServiceManager::SERVICES << s.new}
       GameOverseer::ServiceManager::SERVICES.each do |service|
         puts "#{service.class}v#{service.version}".foreground(:green)
       end
@@ -33,20 +39,24 @@ class GameOverseer
       puts
     end
 
+    # puts startup information
     def text_introduction
       puts "GameOverseer-#{GameOverseer::VERSION} (#{GameOverseer::VERSION_NAME})".foreground(:blue).background(:white)
       puts "Server running on: #{GameOverseer::CONFIG[:ip_address]}:#{GameOverseer::CONFIG[:port]}"
     end
 
+    # puts status
     def text_status
       puts "Status:" + "#{status}".foreground(:green)
     end
 
+    # Status of server
     def status
       # Todo: Make this return actual status, e.g. Overloaded, Failing, OK
       "OK"
     end
 
+    # Listen for text input
     def start_input_monitor
       puts
       print "> "
@@ -58,6 +68,7 @@ class GameOverseer
       end
     end
 
+    # Receive data from clients
     def receive_data data
       begin
         data = Oj.strict_load(data)

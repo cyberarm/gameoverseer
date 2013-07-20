@@ -4,12 +4,15 @@ require "log4r"
 require "oj"
 require "os"
 require "rainbow"
+require "pry"
+require "pry-rescue" if $testing
 
 require_relative "gameoverseer/config/config"
 $log = Log4r::Logger.new("GameOverseer")
 $log.outputters = Log4r::FileOutputter.new("GameOverseerLog", filename: "#{Dir.pwd}/#{GameOverseer::CONFIG[:logger_directory]}/log.txt")
 
 require_relative "gameoverseer/version"
+
 require_relative "gameoverseer/service/service"
 require_relative "gameoverseer/service/servicemanager"
 

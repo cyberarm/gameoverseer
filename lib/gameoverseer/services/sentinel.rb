@@ -1,13 +1,6 @@
 class Sentinel < GameOverseer::Service
   #Service Setup
-  # def new(*args)
-  #   binding.pry
-  #   super
-  # end
-
   def initialize
-    binding.pry
-    @players = 0
     GameOverseer::ChannelManager.subscribe('chat', self)
   end
 

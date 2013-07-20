@@ -10,7 +10,7 @@ gem "pry"
 gem "pry-rescue"
 
 group :gui do
-  gem "green_shoes"
+  # gem "green_shoes"
 end
 
 group :test do
