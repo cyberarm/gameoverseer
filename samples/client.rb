@@ -1,14 +1,18 @@
 GC::Profiler.enable
 
-require "bundler/setup"
-Bundler.require(:default)
+require "securerandom"
+require "eventmachine"
+require "log4r"
+require "oj"
+require "os"
+require "rainbow"
 
 trap("INT") { puts "Shutting down."; exit}
 
 class GameOverseerClient < EventMachine::Connection
   attr_reader :host, :port, :id, :key
 
-  def initialize(host = "localhost", port = 67281)
+  def initialize(host = "127.0.0.1", port = 67281)
     @host = host
     @port = port
     @id = 0

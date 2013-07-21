@@ -12,7 +12,6 @@ class GameOverseer
       CHANNELS.each do |channel|
         if requested_channel == channel
           GameOverseer::ServiceManager::SERVICES.each do |service|
-            # binding.pry
             if service.name == channel[:klass].class.name
               service.send(:update, data)
             end

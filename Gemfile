@@ -1,17 +1,13 @@
 # source "https://rubygems.org" # Unix
 source "http://rubygems.org" # Windows
 
-gem "eventmachine"
+gem "celluloid-io"
 gem "log4r"
 gem "oj"
 gem "os"
 gem "rainbow"
 gem "pry"
 gem "pry-rescue"
-
-group :gui do
-  # gem "green_shoes"
-end
 
 group :test do
   gem "rspec"
