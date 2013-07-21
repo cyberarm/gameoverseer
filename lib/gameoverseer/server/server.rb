@@ -7,7 +7,6 @@ class GameOverseer
 
     # Setup for the server
     def initialize
-      super
       # Create instances of the various managers
       @service_manager = GameOverseer::ServiceManager.new
       @channel_manager = GameOverseer::ChannelManager.new
