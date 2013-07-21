@@ -2,7 +2,7 @@ class GameOverseer
   # Configuration hash.
   CONFIG = {
     # IP address GameOverseer::Server will bind with.
-    ip_address: "localhost",
+    ip_address: "127.0.0.1",
     # Port GameOverseer::Server will bind with.
     port: 67281,
     # Max allowed players to join at one time.

@@ -1,5 +1,5 @@
 require "securerandom"
-require "eventmachine"
+require "celluloid/io"
 require "log4r"
 require "oj"
 require "os"
